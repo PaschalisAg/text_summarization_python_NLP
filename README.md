@@ -6,6 +6,7 @@ Main aim of the project is to apply a simple text summarization technique using 
 
 The length of the text is 47 pages, from which are exluded the *References* section and the technical information of the thesis (for instance, the title, the author, student number, etc.). As it is shown below, the overall length of the text used for this project is **16236** tokens.
 
+The result of this analysis is saved in the file that contains the data ("text/") with the title "thesis_summary.txt".
 
 ```python
 import numpy as np
