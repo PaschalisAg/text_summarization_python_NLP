@@ -117,8 +117,3 @@ for sentence in sentences:
 with open("text/thesis_summary.txt", "w") as infile:
     infile.write(summary)
 ```
-
-
-```python
-
-```
