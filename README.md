@@ -9,10 +9,6 @@ The length of the text is 47 pages, from which are exluded the *References* sect
 The result of this analysis is saved in the file that contains the data ("text/") with the title "thesis_summary.txt".
 
 ```python
-import numpy as np
-import pandas as pd
-import re
-from bs4 import BeautifulSoup
 
 import nltk
 from nltk.corpus import stopwords
