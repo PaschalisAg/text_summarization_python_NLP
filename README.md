@@ -82,7 +82,7 @@ sort_sentenceValue = sorted(sentenceValue.items(), key=lambda x: x[1], reverse=T
 for i in sort_sentenceValue:
     print(i[0], i[1])
 
-
+```
 
 ```python
 sumValues = 0
